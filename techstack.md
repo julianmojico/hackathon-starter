@@ -3,35 +3,35 @@
 ## Tech Stack
 julianmojico/hackathon-starter is built on the following main stack:
 
-- [Stripe](https://stripe.com) – Payment Services
-- [Twilio](http://www.twilio.com) – Voice and SMS
-- [Lob](https://lob.com/) – Printing API
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Pug](https://pugjs.org) – Templating Languages & Extensions
 - [Ruby](https://www.ruby-lang.org) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [Chart.js](http://www.chartjs.org/) – Charting Libraries
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [MongoDB](http://www.mongodb.com/) – Databases
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [Pug](https://pugjs.org) – Templating Languages & Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- [Docker Compose](https://github.com/docker/compose) – Container Tools
-- [Font Awesome](https://fontawesome.com/) – Fonts
-- [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Passport](http://passportjs.org/) – User Management and Authentication
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Docker Compose](https://github.com/docker/compose) – Container Tools
+- [ESLint](http://eslint.org/) – Code Review
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Stripe](https://stripe.com) – Payment Services
+- [Twilio](http://www.twilio.com) – Voice and SMS
+- [Font Awesome](https://fontawesome.com/) – Fonts
+- [Lob](https://lob.com/) – Printing API
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [Passport](http://passportjs.org/) – User Management and Authentication
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -41,35 +41,35 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 julianmojico/hackathon-starter is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'/> [Pug](https://pugjs.org) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'/> [Pug](https://pugjs.org) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'/> [Font Awesome](https://fontawesome.com/) – Fonts
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/' alt='Passport'/> [Passport](http://passportjs.org/) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'/> [Font Awesome](https://fontawesome.com/) – Fonts
+- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/' alt='Passport'/> [Passport](http://passportjs.org/) – User Management and Authentication
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -80,7 +80,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [julianmojico/hackathon-starter](https://github.com/julianmojico/hackathon-starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|66<br/>Tools used|01/31/24 <br/>Report generated|
+|66<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
