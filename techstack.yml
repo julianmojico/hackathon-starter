@@ -2,7 +2,7 @@ repo_name: julianmojico/hackathon-starter
 report_id: e928bb04b1915c338d37a441f6d86528
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:59:04+00:00'
+timestamp: '2024-02-29T19:44:03+00:00'
 requested_by: YasharF
 provider: github
 branch: master
@@ -282,7 +282,7 @@ tools:
   last_updated_by: YasharF
   last_updated_on: 2020-02-26 22:46:56.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 5.0.0
   license: MIT
